@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1463883308 source:c:\elte\ii. félév\programozás\zh ii\2014_abt\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"enor.h"
+	"studentpay.h"
+
+1463883468 c:\elte\ii. félév\programozás\zh ii\2014_abt\enor.h
+	<iostream>
+	<exception>
+	<cstdlib>
+
+1463880695 c:\elte\ii. félév\programozás\zh ii\2014_abt\studentpay.h
+	<exception>
+	"enor.h"
+
+1463882605 source:c:\elte\ii. félév\programozás\zh ii\2014_abt\studentpay.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<deque>
+	<cstdlib>
+	"studentpay.h"
+
+1463882044 source:c:\elte\ii. félév\programozás\zh ii\2014_abt\enor.cpp
+	<iostream>
+	"enor.h"
+	"studentpay.h"
+
